@@ -4,7 +4,7 @@
 
 ### INSTALL
 
-``javascript
+```javascript
 git clone https://github.com/falconsw/order-history.git
 
 cd order-history
@@ -12,11 +12,11 @@ cd order-history
 npm install request
 
 npm install foreach
-``
+```
 
 ### RUN
 
-``javascript
+```javascript
 node app.js
-``
+```
 
